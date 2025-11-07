@@ -1,0 +1,5 @@
+HTML tags: p, nav, a, div, button, ul, li, h1, img, input
+CSS properties: background-color, border, color, font-size, display
+JavaScript for game functionality and Bootstrap for nav and card style.
+    
+
